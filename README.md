@@ -10,3 +10,8 @@ Handled missing values, transformed data, and performed exploratory data analysi
 
 Classified images of cars and bikes using the K-Nearest Neighbors (KNN) algorithm.
 Implemented KNN, tuned hyperparameters, and evaluated performance.
+
+#-3.Healthstream General health checkup model in python
+
+Used multimodel approach to train the data on symptoms of general diseases
+Mapped symptoms to diseases and generated a suggestion/improvement report
